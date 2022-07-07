@@ -1,0 +1,49 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?7a7e2432334b53b84b063de3a8986d87") format("truetype"),
+url("./flaticon.woff?7a7e2432334b53b84b063de3a8986d87") format("woff"),
+url("./flaticon.woff2?7a7e2432334b53b84b063de3a8986d87") format("woff2"),
+url("./flaticon.eot?7a7e2432334b53b84b063de3a8986d87#iefix") format("embedded-opentype"),
+url("./flaticon.svg?7a7e2432334b53b84b063de3a8986d87#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "quiz": "\f101",
+    "crossword": "\f102",
+    "open-box": "\f103",
+    "problem": "\f104",
+    "puzzle": "\f105",
+    "keys": "\f106",
+);
+
+.flaticon-quiz:before {
+    content: map-get($flaticon-map, "quiz");
+}
+.flaticon-crossword:before {
+    content: map-get($flaticon-map, "crossword");
+}
+.flaticon-open-box:before {
+    content: map-get($flaticon-map, "open-box");
+}
+.flaticon-problem:before {
+    content: map-get($flaticon-map, "problem");
+}
+.flaticon-puzzle:before {
+    content: map-get($flaticon-map, "puzzle");
+}
+.flaticon-keys:before {
+    content: map-get($flaticon-map, "keys");
+}
