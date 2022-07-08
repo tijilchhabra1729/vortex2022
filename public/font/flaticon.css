@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?7a7e2432334b53b84b063de3a8986d87") format("truetype"),
+url("./flaticon.woff?7a7e2432334b53b84b063de3a8986d87") format("woff"),
+url("./flaticon.woff2?7a7e2432334b53b84b063de3a8986d87") format("woff2"),
+url("./flaticon.eot?7a7e2432334b53b84b063de3a8986d87#iefix") format("embedded-opentype"),
+url("./flaticon.svg?7a7e2432334b53b84b063de3a8986d87#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-quiz:before {
+    content: "\f101";
+}
+.flaticon-crossword:before {
+    content: "\f102";
+}
+.flaticon-open-box:before {
+    content: "\f103";
+}
+.flaticon-problem:before {
+    content: "\f104";
+}
+.flaticon-puzzle:before {
+    content: "\f105";
+}
+.flaticon-keys:before {
+    content: "\f106";
+}
