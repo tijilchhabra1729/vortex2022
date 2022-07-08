@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="922" height="209.516" viewBox="0 0 922 209.516">
+  <g id="Group_15" data-name="Group 15" transform="translate(-663 -455)">
+    <g id="Group_1" data-name="Group 1" transform="translate(586 145.75)">
+      <text id="_05:00_06:30_07:00" data-name="05:00
+06:30
+07:00" transform="matrix(1, 0, 0, 1, 84, 355.766)" fill="#57c0e0" font-size="25.539" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="1.842" y="25">05:00</tspan><tspan x="2.455" y="77.683">06:30</tspan><tspan x="1.855" y="130.365">07:00</tspan></text>
+      <g id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" transform="translate(198 361.22)" fill="none" stroke="#57c0e0" stroke-width="2">
+        <rect width="146.13" height="124.91" rx="20.5" stroke="none"/>
+        <rect x="1" y="1" width="144.13" height="122.91" rx="19.5" fill="none"/>
+      </g>
+      <text id="Finals" transform="matrix(1, 0, 0, 1, 271, 430.703)" fill="#57c0e0" font-size="18.743" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-28.228" y="0">Finals</tspan></text>
+      <g id="Rounded_Rectangle_1_copy_3" data-name="Rounded Rectangle 1 copy 3" transform="translate(711 362.31)" fill="none" stroke="#57c0e0" stroke-width="2">
+        <rect width="278.62" height="124.91" rx="20.5" stroke="none"/>
+        <rect x="1" y="1" width="276.62" height="122.91" rx="19.5" fill="none"/>
+      </g>
+      <text id="Problem_Solving" data-name="Problem Solving" transform="matrix(1, 0, 0, 1, 850, 430.521)" fill="#57c0e0" font-size="18.743" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-79.716" y="0">Problem Solving</tspan></text>
+      <g id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" transform="translate(601 361.5)" fill="none" stroke="#57c0e0" stroke-width="2">
+        <rect width="74.72" height="129.25" rx="20.5" stroke="none"/>
+        <rect x="1" y="1" width="72.72" height="127.25" rx="19.5" fill="none"/>
+      </g>
+      <text id="Finals-2" data-name="Finals" transform="matrix(0, 1, -1, 0, 632, 425.629)" fill="#57c0e0" font-size="18.743" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-28.228" y="0">Finals</tspan></text>
+      <g id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" transform="translate(377 361.22)" fill="none" stroke="#57c0e0" stroke-width="2">
+        <rect width="194.56" height="72.72" rx="20.5" stroke="none"/>
+        <rect x="1" y="1" width="192.56" height="70.72" rx="19.5" fill="none"/>
+      </g>
+      <text id="Finals-3" data-name="Finals" transform="matrix(1, 0, 0, 1, 474, 404.703)" fill="#57c0e0" font-size="18.743" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-28.228" y="0">Finals</tspan></text>
+    </g>
+    <text id="Time" transform="translate(708 489)" fill="#57c0e0" font-size="35" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-44.765" y="0">Time</tspan></text>
+    <text id="Quiz" transform="translate(1224 489)" fill="#57c0e0" font-size="35" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-41.02" y="0">Quiz</tspan></text>
+    <text id="Crossword" transform="translate(1060 489)" fill="#57c0e0" font-size="35" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-95.34" y="0">Crossword</tspan></text>
+    <text id="Surprise" transform="translate(857 489)" fill="#57c0e0" font-size="35" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-74.41" y="0">Surprise</tspan></text>
+    <text id="Problem_Solving-2" data-name="Problem Solving" transform="translate(1436 489)" fill="#57c0e0" font-size="35" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-148.855" y="0">Problem Solving</tspan></text>
+  </g>
+</svg>
