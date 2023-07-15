@@ -823,6 +823,9 @@ input[type=number] {
     .home__content{
         grid-template-columns: .25fr 3fr;
     }
+    .home__container{
+        text-align: center;
+    }
     .home__img{
         justify-items: center;
         align-items: center;
@@ -848,6 +851,15 @@ input[type=number] {
     
 }
 
+@media all and (min-width:350px) and (max-width: 568px) {
+    .home__img{
+        justify-items: center;
+        align-items: center;
+    }
+    .home__container{
+        text-align: center;
+    }
+}
 
 @media screen and (min-width:568px){
     .section{
@@ -860,7 +872,6 @@ input[type=number] {
         grid-column: initial;
     }
     .home__img{
-        /* order: 1; */
         justify-self: center;
     }
     .about__container,
@@ -1012,4 +1023,20 @@ input[type=number] {
     .card__container{
         grid-template-columns: repeat(4, 1fr);
     }
+}
+
+.row{
+  display:block;
+}
+
+.mobile-articles {
+  display:none;
+}
+@media screen and (max-width:1150px) {
+  .mobile-articles {
+    display:block;
+  }
+  .row{
+    display:none;
+  }
 }

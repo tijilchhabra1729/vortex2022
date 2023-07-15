@@ -249,9 +249,29 @@
               display: table;
               clear: both;
             }
+            
+            /* Create three equal columns that floats next to each other */
+            .column1 {
+              font-size: small;
+              float: left;
+              width: 16.66%;
+              padding: 10px;
+              text-align: center;
+              margin-right: 11vw;
+            }
+            
+            /* Clear floats after the columns */
+            .row1:after {
+              text-align: center;
+              content: "";
+              display: table;
+              clear: both;
+            }
+
             </style>
             </head>
             <body>
+            
             <div class="row" style="width: 70%; margin: auto; text-align: center;">
               <div class="column">
                 <h2>Hussain</h2>
@@ -277,6 +297,36 @@
                 <h2>Ruvan</h2>
                 <p>Member</p>
               </div>
+            </div>
+            <div class="mobile-articles">
+                <div class="row1" style="width: 70%; margin: auto; text-align: center;">
+                    <div class="column1">
+                    <h2>Hussain</h2>
+                    <p>Member</p>
+                    </div>
+                    <div class="column1">
+                    <h2>Aradhya</h2>
+                    <p>Member</p>
+                    </div>
+                    <div class="column1">
+                    <h2>Vanya</h2>
+                    <p>Member</p>
+                    </div>
+                </div>
+                <div class="row1" style="width: 70%; margin: auto; text-align: center;">
+                    <div class="column1">
+                    <h2>Vrinda</h2>
+                    <p>Member</p>
+                    </div>
+                    <div class="column1">
+                    <h2>Saachi</h2>
+                    <p>Member</p>
+                    </div>
+                    <div class="column1">
+                    <h2>Ruvan</h2>
+                    <p>Member</p>
+                    </div>
+                </div>
             </div>
     </main>
     
