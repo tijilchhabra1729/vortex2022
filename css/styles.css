@@ -1040,3 +1040,14 @@ input[type=number] {
     display:none;
   }
 }
+
+.tables {
+    border: 5px solid;
+    margin: auto;
+    width: 80%;
+    padding: 10%; 
+}
+
+td {
+    border: 1px solid;
+}
